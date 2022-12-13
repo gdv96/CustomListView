@@ -17,7 +17,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView"
         android:gravity="center"
-        android:text="My Text">
+        android:text="My Text"
+        android:textSize="30dp">
     </TextView>
 
 </LinearLayout>
